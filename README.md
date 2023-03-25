@@ -16,4 +16,4 @@
 
 <p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=bestestmayb&" alt="bestestmayb" /></p>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=bestestmayb&show_icons=true&locale=en&layout=compact" alt="bestestmayb" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=bestestmayb&show_icons=true&locale=en&layout=compact" alt="bestestmayb" /></p>
