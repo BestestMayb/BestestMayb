@@ -14,7 +14,7 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=bestestmayb&show_icons=true&locale=en&layout=compact" alt="bestestmayb" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=bestestmayb&show_icons=true&locale=en" alt="bestestmayb" /></p>
+<p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=bestestmayb&show_icons=true&locale=en" alt="bestestmayb" /></p>
 
 <p><img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=bestestmayb&" alt="bestestmayb" /></p>
 
